@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "app/server",
+    "crates/core",
+    "crates/db",
+    "crates/net",
+    "crates/scripts",
+    # "rfs-admin-panel",  # aktivera senare
+]
+resolver = "2"

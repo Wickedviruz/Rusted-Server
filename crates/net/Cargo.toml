@@ -1,0 +1,24 @@
+[package]
+name = "net"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+bytes = "1"
+mysql_async = "0.32"
+serde = { version = "1", features = ["derive"] }
+lazy_static = "1.4"
+anyhow = "1"
+base64 = "0.22"
+rsa = "0.9"
+num-bigint-dig = "0.8"
+futures = "0.3.31"
+chrono = { version = "0.4", features = ["clock"] }
+
+# egna crates
+core = { path = "../core" }
+db   = { path = "../db" }
+
+# OpenSSL (samma lib som TFS använder)
+openssl = "0.10"
