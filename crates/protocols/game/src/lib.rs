@@ -1,3 +1,3 @@
-pub fn handle_game_connection(...) {
+pub fn handle_game_connection<T>(_ctx: T) {
     unimplemented!()
 }

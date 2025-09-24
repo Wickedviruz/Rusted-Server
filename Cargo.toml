@@ -20,3 +20,8 @@ members = [
 [workspace.package]
 edition = "2021"
 resolver = "2"
+
+[workspace.metadata]
+server_name = "Rusted Server"
+developers = "Wickedviruz & contributors"
+homepage = "https://github.com/Wickedviruz/Rusted-Server"

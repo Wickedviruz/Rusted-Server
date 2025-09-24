@@ -18,6 +18,8 @@ pub mod outputmessage;
 pub mod tools;
 pub mod protocol;
 
+pub use rsa::{rsa_decrypt, load_pem};
+
 use connection::Connection;
 use protocol_login::ProtocolLogin;
 

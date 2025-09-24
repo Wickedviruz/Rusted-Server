@@ -1,0 +1,59 @@
+[2m2025-09-24T19:35:31.384417Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:35:31.385123Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:38:38.023807Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:38:38.024546Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:39:43.704985Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:39:43.705691Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:42:50.340590Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:42:50.341424Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:47:16.888779Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:47:16.889633Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:47:38.425789Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:47:38.426708Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:47:55.146644Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:47:55.147583Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:48:07.887621Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:48:07.888523Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:49:51.742759Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:49:51.750712Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:54:19.025885Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:54:19.026641Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:56:14.988742Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:56:14.989479Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:56:54.675860Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:56:54.676817Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T19:58:54.805237Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T19:58:54.806098Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:00:02.724973Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:00:02.725847Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:01:52.968805Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:01:52.969679Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:03:32.130661Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:03:32.131531Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:04:19.318109Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:04:19.318932Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:09:18.451053Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:09:18.451110Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:09:18.451241Z[0m [32m INFO[0m Loading RSA key from "\\\\?\\C:\\dev\\rfs\\key.pem"
+[2m2025-09-24T20:09:18.451827Z[0m [32m INFO[0m RSA initialized
+[2m2025-09-24T20:09:18.451841Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:09:54.255681Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:09:54.255734Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:09:54.255844Z[0m [32m INFO[0m Loading RSA key from "\\\\?\\C:\\dev\\rfs\\key.pem"
+[2m2025-09-24T20:09:54.256410Z[0m [32m INFO[0m RSA initialized
+[2m2025-09-24T20:09:54.256482Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:10:43.224220Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:10:43.224277Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:10:43.224389Z[0m [32m INFO[0m Loading RSA key from "\\\\?\\C:\\dev\\rfs\\key.pem"
+[2m2025-09-24T20:10:43.225041Z[0m [32m INFO[0m RSA initialized
+[2m2025-09-24T20:10:43.225107Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:20:13.388361Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:20:13.398183Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:20:13.399045Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:20:50.874778Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:20:50.875616Z[0m [32m INFO[0m Config loaded
+[2m2025-09-24T20:20:50.876374Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:22:21.281367Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:22:21.282725Z[0m [32m INFO[0m Game data loaded
+[2m2025-09-24T20:22:49.061353Z[0m [32m INFO[0m Starting Rusted-Server…
+[2m2025-09-24T20:22:49.062688Z[0m [32m INFO[0m Game data loaded

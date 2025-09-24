@@ -1,5 +1,5 @@
 [package]
-name = "server"
+name = "Rusted-Server"
 version = "0.1.0"
 edition = "2021"
 
@@ -10,10 +10,17 @@ world = { path = "../world" }
 entities = { path = "../entities" }
 items = { path = "../items" }
 rules = { path = "../rules" }
-protocols_login = { path = "../protocols/login" }
-protocols_game = { path = "../protocols/game" }
+protocols-login = { path = "../protocols/login" }
+protocols-game = { path = "../protocols/game" }
 net = { path = "../net" }
 scripting = { path = "../scripting" }
 persistence = { path = "../persistence" }
 services = { path = "../services" }
 admin = { path = "../admin" }
+
+chrono = "0.4"
+rustc_version_runtime = "0.2"
+mlua = "0.9"
+anyhow = "1"
+once_cell = "1.19"
+colored = "2.1"
