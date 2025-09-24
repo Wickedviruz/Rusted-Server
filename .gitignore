@@ -1,2 +1,12 @@
-/target
 config.lua
+/target/
+/**/target/
+/**/Cargo.lock
+**/*.rs.bk
+**/*.swp
+*.log
+/data/cache/
+/.env
+.DS_Store
+.idea/
+.vscode/

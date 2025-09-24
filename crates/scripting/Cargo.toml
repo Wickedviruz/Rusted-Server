@@ -1,8 +1,13 @@
 [package]
-name = "scripts"
+name = "scripting"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+common = { path = "../common" }
+world = { path = "../world" }      # för att scripts kan manipulera världen
+entities = { path = "../entities" }
+items = { path = "../items" }
+
 mlua = { version = "0.9", features = ["lua54", "vendored", "serialize"] }
 core = { path = "../core" }

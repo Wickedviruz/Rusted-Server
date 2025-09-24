@@ -1,10 +1,22 @@
 [workspace]
 members = [
-    "app/server",
-    "crates/core",
-    "crates/db",
+    "crates/common",
+    "crates/timewheel",
+    "crates/world",
+    "crates/entities",
+    "crates/items",
+    "crates/rules",
+    "crates/protocols/login",
+    "crates/protocols/game",
     "crates/net",
-    "crates/scripts",
-    # "rfs-admin-panel",  # aktivera senare
+    "crates/scripting",
+    "crates/persistence",
+    "crates/services",
+    "crates/admin",
+    "crates/server",
 ]
+
+# Gemensamma dev-beroenden eller verktyg kan placeras här om nödvändigt
+[workspace.package]
+edition = "2021"
 resolver = "2"

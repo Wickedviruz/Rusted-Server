@@ -1,3 +1,6 @@
+pub mod script_manager;
+pub mod hooks;
+
 use mlua::Lua;
 
 pub fn run_lua_snippet() {

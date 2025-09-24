@@ -1,7 +1,9 @@
 [package]
-name = "timewheel"
+name = "rules"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 common = { path = "../common" }
+items = { path = "../items" }
+entities = { path = "../entities" }

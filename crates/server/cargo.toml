@@ -1,0 +1,19 @@
+[package]
+name = "server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+common = { path = "../common" }
+timewheel = { path = "../timewheel" }
+world = { path = "../world" }
+entities = { path = "../entities" }
+items = { path = "../items" }
+rules = { path = "../rules" }
+protocols_login = { path = "../protocols/login" }
+protocols_game = { path = "../protocols/game" }
+net = { path = "../net" }
+scripting = { path = "../scripting" }
+persistence = { path = "../persistence" }
+services = { path = "../services" }
+admin = { path = "../admin" }

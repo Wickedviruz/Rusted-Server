@@ -1,0 +1,11 @@
+[package]
+name = "world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+common = { path = "../common" }
+timewheel = { path = "../timewheel" }
+entities = { path = "../entities" }
+items = { path = "../items" }
+rules = { path = "../rules" }
