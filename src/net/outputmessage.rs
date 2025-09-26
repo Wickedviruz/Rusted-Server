@@ -1,6 +1,6 @@
-use crate::networkmessage::NetworkMessage;
+use crate::net::networkmessage::NetworkMessage;
 use std::sync::{Arc, Mutex};
-use crate::tools::adler32;
+use crate::net::tools::adler32;
 
 pub struct OutputMessagePool;
 

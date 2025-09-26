@@ -1,4 +1,4 @@
-use crate::{
+use crate::net::{
     connection::Connection,
     networkmessage::NetworkMessage,
     outputmessage::OutputMessage,

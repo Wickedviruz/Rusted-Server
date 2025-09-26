@@ -1,7 +1,7 @@
 // src/networkmessage.rs
 // Port av TFS NetworkMessage till Rust
 
-use crate::consts::*;
+use crate::net::consts::*;
 use std::str;
 
 

@@ -1,4 +1,4 @@
-use crate::{
+use crate::net::{
     consts::*,
     connection::Connection,
     networkmessage::NetworkMessage,
@@ -6,7 +6,7 @@ use crate::{
     protocol::{Protocol, ProtocolBase},
     rsa,
 };
-use db::{Database, DatabaseManager};
+use crate::db::{Database, DatabaseManager};
 use anyhow::{anyhow, Result};
 use std::sync::Weak;
 use tokio::sync::Mutex;

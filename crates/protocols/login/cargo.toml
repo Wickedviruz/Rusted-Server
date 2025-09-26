@@ -1,9 +1,0 @@
-[package]
-name = "protocols-login"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-common = { path = "../../common" }
-net = { path = "../../net" }
-persistence = { path = "../../persistence" }

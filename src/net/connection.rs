@@ -1,13 +1,14 @@
+
 use std::sync::Arc;
 use anyhow::Result;
 use tokio::net::{TcpStream, tcp::{OwnedReadHalf, OwnedWriteHalf}};
 use tokio::sync::{mpsc, Mutex};
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
 
-use crate::networkmessage::NetworkMessage;
-use crate::outputmessage::OutputMessage;
-use crate::protocol::Protocol;
-use crate::tools::adler32;
+use crate::net::networkmessage::NetworkMessage;
+use crate::net::outputmessage::OutputMessage;
+use crate::net::protocol::Protocol;
+use crate::net::tools::adler32;
 
 const SEND_QUEUE_SIZE: usize = 128;
 
@@ -35,7 +36,7 @@ impl Connection {
             let conn_clone = conn.clone();
             tokio::spawn(async move {
                 // vi flyttar ut reader ur structen här
-                let mut reader = {
+                let reader = {
                     let mut lock = conn_clone.lock().await;
                     lock.reader.take().expect("Reader already taken")
                 };
